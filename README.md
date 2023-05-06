@@ -22,7 +22,7 @@ Hi, I'm [Krish](https://krishchow.com). I've had a couple of different roles at 
 ![living](https://img.shields.io/badge/living-sf-3c9)
 
 - 🔭 I’m currently working on Kubernetes and Crossplane
-- 😄 Pronouns: he/him/his or they/them :)
+- 😄 Pronouns: any :)
 - ⚡ Fun fact: my favorite philosopher is Albert Camus :)
 
 To get in touch with me, add me on [linkedin](https://www.linkedin.com/in/krishchow/)
