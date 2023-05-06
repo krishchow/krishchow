@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ### Hiya o/
-Hi, I'm [Krish](https://krishchow.me). I'm currently working as a Software Engineer in Red Hat's Office of the CTO
+Hi, I'm [Krish](https://krishchow.com). I've had a couple of different roles at companies like: Google, DoorDash and Red Hat
 
-![current](https://img.shields.io/badge/current-infra-blue)
+![focus](https://img.shields.io/badge/current-infra-blue)
 ![focus](https://img.shields.io/badge/focus-backend-green)
 ![focus](https://img.shields.io/badge/focus-full--stack-red)
-![living](https://img.shields.io/badge/living-toronto-3c9)
+![living](https://img.shields.io/badge/living-sf-3c9)
 
 - 🔭 I’m currently working on Kubernetes and Crossplane
-- 🌱 I’m currently learning gRPC, CI/CD and networking
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his or they/them :)
 - ⚡ Fun fact: my favorite philosopher is Albert Camus :)
 
 To get in touch with me, add me on [linkedin](https://www.linkedin.com/in/krishchow/)
