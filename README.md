@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 ### o/
 Hi, I'm [Krish](https://krishchow.com). I've had a couple of different roles at companies like: Google, DoorDash and Red Hat
 
-![focus](https://img.shields.io/badge/current-infra-blue)
-![focus](https://img.shields.io/badge/focus-backend-green)
-![focus](https://img.shields.io/badge/focus-full--stack-red)
 ![living](https://img.shields.io/badge/living-sf-3c9)
 
 To get in touch with me, add me on [linkedin](https://www.linkedin.com/in/krishchow/)
